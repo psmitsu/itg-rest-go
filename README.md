@@ -1,1 +1,1 @@
-# itglobal-rest-go
+# itg-rest-go
